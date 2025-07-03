@@ -33,7 +33,7 @@
                             "packager": "sduino"
                         }
                     ],
-                    "url": "https://github.com/tenbaht/sduino/releases/download/v0.5/sduino-core-0.5.tar.bz2",
+                    "url": "/Users/infinity/Downloads/STM/arduino core/sduino-core-0.5.tar.bz2",
                     "archiveFileName": "sduino-core-0.5.tar.bz2",
                     "checksum": "SHA-256:16a8083583c704b18921cf5f8ededde925d313b4af6d9d64fa95ae2255e2bbf5",
                     "size": "2263740"
